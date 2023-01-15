@@ -12,7 +12,10 @@ Write small C# Code fast and lazy...
  - Autocomplete
  - Compressed Coding due tue Inplicate Crosspiler*
  
- By Crosspiler i mean the translation from inplicate Commands to valid C# Code.
+ ![This is an image](https://raw.githubusercontent.com/Paitorocxon/ToiletPaperIDE/main/TP_IDE.gif)
+ 
+ 
+ *By Crosspiler i mean the translation from inplicate Commands to valid C# Code.
 
 Initially i've wrote it due to teh fact that i don't have time to go to google and look things up for cmd batch or sh!t like diz.
 So makes it special?
