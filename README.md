@@ -72,3 +72,20 @@ namespace application {
     }
    ```
   - To be continued!
+
+
+ # Implicate Commands:
+ 
+ ## Icon
+Set Icon for your application
+```
+implicate.favicon = PATH;
+```
+
+
+ ## Use online source
+```
+use "URL";
+```
+
+ ## PLACEHOLDER (yet to come)
