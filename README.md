@@ -91,11 +91,12 @@ OR
 ```
 use "local.DLL_IN_SAME_FOLDER.dll";
 ```
-By using a local dll, make sure the name is correct and the same as the namespace itself.
+By using a local dll, make sure the name is correct and the same as the namespace itself and by using the "local." prefix.
 Example:
 > use "MyLibrary.dll";
 but the namespace is "pait.engine.somethingcool",
 then it will not work! So name your DLLs to the namespace :)
+
 
 
 
