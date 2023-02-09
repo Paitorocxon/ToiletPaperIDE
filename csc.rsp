@@ -44,3 +44,4 @@
 /r:System.Xml.Linq.dll
 /r:mscorlib.dll
 /r:System.Core.dll
+/r:mscorlib.dll
