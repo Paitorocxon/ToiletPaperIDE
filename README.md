@@ -83,7 +83,20 @@ implicate.favicon = PATH;
 ```
 
 
- ## Use online source
+ ## Compiling
+ It will determine by itself whether it is a library or a simple exe.
+ I mean i made it with a small overcomplexed RegEx... Should work, i guess.
+Set compiling option for your application
+```
+implicate.output = MyApp.exe;
+```
+or
+```
+implicate.output = MyLib.dll;
+```
+
+
+## Use online source
 ```
 use "URL";
 ```
